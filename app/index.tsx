@@ -327,7 +327,7 @@ const styles = StyleSheet.create({
     marginBottom: 16,
   },
   menuItem: {
-    fontSize: 16,
+    fontSize: 15,
     paddingVertical: 10,
   },
 });
